@@ -8,7 +8,7 @@ Website for the mentored sprints. This site inlcudes details about the events, a
 
 Contributions are welcome. Also, if you encounter any issues, please go ahead and create an issue in this repo.
 
-The detailed contribution guidelines can be found in the [CONTRIBUTING](./CONTRIBUTING.md) file, make sure to have a look first.
+The detailed contribution guidelines can be found in the [CONTRIBUTING](./CONTRIBUTING.md) file, make sure to have a look first. Next, have fun contributing.
 
 ### Requirements
 
